@@ -1,0 +1,2 @@
+# DistributionTransformer
+Sklearn compatible distribution transformer
